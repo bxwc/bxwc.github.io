@@ -1,2 +1,2 @@
 # bxwc.github.io
-[bxwc](bxwc.s500.xrea.com)
+[bxwc](http://bxwc.s500.xrea.com/)
